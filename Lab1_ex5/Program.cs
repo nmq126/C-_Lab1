@@ -11,7 +11,7 @@ namespace Lab1_ex5
                 Console.WriteLine("{0}! = {1}", i, Factorial(i));
             }
         }
-
+    
         static double Factorial(int a)
         {
             if (a < 1)
