@@ -1,0 +1,9 @@
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\bin\Debug\Lab5_ex2.exe
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\bin\Debug\Lab5_ex2.pdb
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\bin\Debug\Lab4_ex1.exe
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\bin\Debug\Lab4_ex1.pdb
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\obj\Debug\Lab5_ex2.csprojAssemblyReference.cache
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\obj\Debug\Lab5_ex2.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\obj\Debug\Lab5_ex2.csproj.CopyComplete
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\obj\Debug\Lab5_ex2.exe
+C:\Users\PC\RiderProjects\Lab1\Lab5_ex2\obj\Debug\Lab5_ex2.pdb
